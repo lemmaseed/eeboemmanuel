@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+#home_bg H1 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 72px;
+  text-align: center;
+  color: #335acf;
+}
+#home_bg B {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+#nav_bar .navbar-toggler {
+  color: #000;
+}
+#nav_bar .navbar-brand {
+  font-family: 'Lora', serif;
+  font-size: 16px;
+}
+#buttons1-c .btn {
+  font-family: 'Montserrat', sans-serif;
+}
+#contact .mbr-section-title {
+  font-size: 36px;
+}
+#footer P {
+  color: #fff8e0;
+  text-align: center;
+}
+
+#ext_menu-d .navbar-toggler {
+  color: #000;
+}
+#ext_menu-d .navbar-brand {
+  font-family: 'Lora', serif;
+  font-size: 16px;
+}
+#footer1-e P {
+  color: #fff8e0;
+  text-align: center;
+}
